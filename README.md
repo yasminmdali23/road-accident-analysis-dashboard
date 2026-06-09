@@ -16,6 +16,8 @@ An operational safety analytics dashboard built in Power BI to analyze emergency
 * **Geospatial Intelligence:** Interactive Bing Maps GIS visualization plotting precise geographic incident coordinates across the United Kingdom.
 * **Advanced Filters:** Interactive slicers for Road Surface conditions and Weather Conditions.
 
+![Road Accident Dashboard](InShot_20260603_074603252.jpg)
+
 ## 🛠️ Tools & Technologies
 * **Power BI Desktop:** Advanced DAX, Geographic Mapping, Data Transformation, and UI Theme Customization.
 
